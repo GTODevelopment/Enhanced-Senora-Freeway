@@ -6,6 +6,12 @@ Here we have a nice FiveM ready Y-Map that is free to the public!  This adds tre
 
 # UPDATES ARE BEING PUSHED OUT FOR THIS Y-MAP ALL THE TIME
 
+# INSTALL
+
+1) Drag folder into your resources folder
+2) Ensure or start the folder name in your server config
+3) Enjoy! :)
+
 # KNOWN ISSUES
 
 At the moment there are no known issues.
